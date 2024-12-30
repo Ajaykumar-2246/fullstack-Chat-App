@@ -25,7 +25,7 @@ function App() {
       </div>
     );
   return (
-    <div >
+    <div className="bg-white" >
       <Navbar />
       <Routes>
         <Route
